@@ -22,12 +22,10 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 /*
-```
-Developed by: SHRUTHI S
-Registeration Number : 212222220044
-```
+Program to print the text “optionmenu”.
+Developed by:Shruthi S
+Registeration Number :212222220044
 */
-
 ## MainActivity.java
 ```
 package com.example.exp13;
@@ -135,8 +133,9 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## OUTPUT
+## OUTPUT:
 ![384413860-8959ab62-39b5-4d81-b029-200b2f5ab089](https://github.com/user-attachments/assets/42202725-71e3-4d68-804e-956aac2373b2)
 
-## RESULT
+
+## RESULT:
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
